@@ -1,6 +1,4 @@
-Sure! Here's a draft for your `README.md` file:
 
----
 
 # Cryptocurrency Trading Platform
 
