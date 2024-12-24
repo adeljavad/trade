@@ -62,6 +62,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Freqtrade](https://www.freqtrade.io/) for the trading bot framework.
 - [TensorFlow](https://www.tensorflow.org/) for the deep learning models.
 
----
-
-Feel free to modify this draft as needed. If you have any specific details you'd like to add or change, let me know! 😊
+😊
