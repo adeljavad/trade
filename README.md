@@ -27,11 +27,11 @@ Welcome to the Cryptocurrency Trading Platform project! This platform is designe
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <adeljavad\trade>
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cryptocurrency-trading-platform
+   cd trade
    ```
 3. Install the required dependencies:
    ```bash
