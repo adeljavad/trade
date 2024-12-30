@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+# adel test commit
 # 1. خواندن داده‌های CSV
 file_path = 'stock_data.csv'  # مسیر فایل CSV
 data = pd.read_csv(file_path)
